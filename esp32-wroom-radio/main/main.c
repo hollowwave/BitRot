@@ -8,6 +8,10 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
+int ieee80211_raw_frame_sanity_check(uint32_t arg1, const void* arg2, uint32_t arg3, uint32_t arg4){
+    return 0;
+}
+
 static const char *TAG = "wroom_main";
 
 /* ---- UART config ---------------------------------------------------- */
