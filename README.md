@@ -1,5 +1,7 @@
 # BitRot
 
+> The Dual Board Link isn't working for now...🥹
+
 ## Hardware
 
 | Component | Spec |
